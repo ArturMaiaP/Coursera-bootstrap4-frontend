@@ -64,3 +64,15 @@
 	left: 0;
 	min-height: 300px;
 }
+
+.btn-success:focus{
+	background-color: darkgreen !important;
+}
+.btn-danger:focus{
+	background-color: darkred !important;
+}
+
+
+.btn{
+	box-shadow: none !important;
+}
