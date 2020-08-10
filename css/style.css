@@ -76,3 +76,9 @@
 .btn{
 	box-shadow: none !important;
 }
+
+#carousel-button{
+	right: 5px;
+	position: absolute;
+	bottom: 0px;
+}
